@@ -8,7 +8,7 @@
 ${Using:StrFunc} StrStr
 
 !define APP_NAME "dgVoodoo 2 for SC4"
-!define APP_VERSION "v5.0"
+!define APP_VERSION "v5.2"
 !define APP_SUPPORT_SUBDIR "DgVoodoo2-SC4"
 !define UNINSTALL_KEY "Software\Microsoft\Windows\CurrentVersion\Uninstall\DgVoodoo2SC4"
 !define APP_REG_KEY "Software\DgVoodoo2SC4"
